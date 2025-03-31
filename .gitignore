@@ -1,1 +1,4 @@
 .history
+public
+.DS_Store
+*.lock

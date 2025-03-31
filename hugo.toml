@@ -1,0 +1,46 @@
+sitename = "Caner Tuzunar"
+baseURL = "/"
+languageCode = "en-us"
+title = "Caner Tuzunar"
+author = "Caner Tuzunar"
+enableEmoji = true
+hasCJKLanguage = false
+pygmentsstyle = "tango"
+pygmentscodefences = true
+defaultContentLanguage = "en"
+theme = "kaslaanka"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[menu.primary]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.primary]]
+name = "Blog"
+url = "/blog"
+weight = 2
+
+[params]
+sitename = "Caner Tuzunar"
+copyrights = "Caner Tuzunar"
+defaultList = "global"
+paginationLen = 5
+projectsURL = "https://example.com"
+brief_about = "<center>I'm a software engineer working on compute infra and database systems, previously worked with managed Kubernetes(EKS), containerized environments(ECS-EC2), Serverless Architecture(AWS Lambda), and RDBMS</center>"
+
+[caches]
+    [caches.images]
+        dir = ":cacheDir/images"
+
+[[params.myprojects]]
+name = "Veresiye"
+description = "I built a key-value store from scratch using SSTable and WAL"
+url = "https://github.com/tuzunar/veresiye"
+
+[[params.myprojects]]
+name = "Veresiye Paxos"
+description = "I implemented the Paxos consensus algorithm to the Veresiye database"
+url = "https://github.com/tuzunar/veresiye-paxos"
