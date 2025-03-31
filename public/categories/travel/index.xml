@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Travel on Caner Tuzunar</title>
+    <link>http://localhost:1313/categories/travel/</link>
+    <description>Recent content in Travel on Caner Tuzunar</description>
+    
+    <language>en-us</language>
+    <copyright>Caner Tuzunar</copyright>
+    <lastBuildDate>Mon, 31 Mar 2025 10:06:53 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 03 31 I Created a Database From Scratch</title>
+      <link>http://localhost:1313/blog/en/2025-03-31-i-created-a-database-from-scratch/</link>
+      <category>readme</category>
+      <category>Demo</category>
+      <category>Markdown-Show</category><pubDate>Mon, 31 Mar 2025 10:06:53 +0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/en/2025-03-31-i-created-a-database-from-scratch/</guid>
+      <description>&lt;h1 id=&#34;veresiye&#34;&gt;Veresiye&lt;/h1&gt;
+&lt;p&gt;a
+a database&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

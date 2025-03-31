@@ -1,0 +1,36 @@
+baseURL = 'https://tuzunar.github.io/'
+languageCode = 'en-us'
+title = 'Caner Tuzunar'
+copyright = 'Caner Tuzunar'
+theme = 'kaslaanka'
+enableEmoji = true
+hasCJKLanguage = false
+pygmentsstyle = "tango"
+pygmentscodefences = true
+defaultContentLanguage = "en"
+
+[params]
+sitename = "Caner Tuzunar"
+copyrights = "Caner Tuzunar"
+defaultList = "global"
+paginationLen = 3
+projectsURL = "https://github.com/tuzunar/"
+brief_about = "<center>I'm a software engineer working on compute infra and database systems, previously worked with managed Kubernetes(EKS), containerized environments(ECS-EC2), Serverless Architecture(AWS Lambda), and RDBMS</center>"
+
+[[params.myprojects]]
+name= "All my projects"
+description = "cloud compute, infra, networking"
+
+[[menu.primary]]
+name= "Home"
+url= "/"
+weight= 1
+
+[[menu.primary]]
+name= "Posts"
+url= "/blog"
+weight= 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

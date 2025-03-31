@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Tags on Caner Tuzunar</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Caner Tuzunar</description>
+    
+    <language>en-us</language>
+    <copyright>Caner Tuzunar</copyright>
+    <lastBuildDate>Mon, 31 Mar 2025 10:06:53 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>http://localhost:1313/tags/demo/</link><pubDate>Mon, 31 Mar 2025 10:06:53 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown-Show</title>
+      <link>http://localhost:1313/tags/markdown-show/</link><pubDate>Mon, 31 Mar 2025 10:06:53 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/markdown-show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readme</title>
+      <link>http://localhost:1313/tags/readme/</link><pubDate>Mon, 31 Mar 2025 10:06:53 +0300</pubDate>
+      
+      <guid>http://localhost:1313/tags/readme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
